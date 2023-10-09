@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(45,41,41,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.v-screen {
+  height: 100vh;
+}
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.ProfileName {
+  color: rgb(235, 235, 235);
+  font-style: italic;
+  font-family: din-condensed, sans-serif;
+  font-size: 70px;
+}
+
+.Summary {
+  color: #f8efd4;
+  font-family: din-condensed, sans-serif;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.SectionHeader {
+  color: #f8efd4;
+}
+
+.SkillIcon {
+  width: 50px;
+  height: auto;
+}
+
+.grid-label {
+  color: #f8efd4;
+  padding-bottom: 15px;
+}
+
+.grid {
+  background-color: #f8efd4;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 10px;
+  padding: 0;
+  margin: 0;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.grid-item {
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  color: black;
+  font-style: bold;
+  width: auto;
+  padding: 5px;
+}
