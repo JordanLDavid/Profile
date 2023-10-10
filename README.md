@@ -40,6 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#Limitations-and-Future-Updates">Future Updates</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -87,6 +88,13 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm start
    ```
+<!-- FUTURE IMPROVEMENTS -->
+## Limitations and Future Updates
+* Add Taskbar
+* Add Footer
+* Improve scrolling
+* Improve UI Layout and Design
+
 <!-- CONTACT -->
 ## Contact
 Project Link: [https://github.com/JordanLDavid/Profile](https://github.com/JordanLDavid/Profile)
