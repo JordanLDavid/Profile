@@ -107,7 +107,7 @@ Project Link: [https://github.com/JordanLDavid/Profile](https://github.com/Jorda
 [license-url]: https://github.com/JordanLDavid/Profile/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/JordanLenardDavid
-[product-screenshot]: images/product-screenshot.JPG
+[product-screenshot]: public/images/product-screenshot.JPG
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [framer.com]: https://img.shields.io/badge/framer-20232A?style=for-the-badge&logo=framer&logoColor=61DAFB
