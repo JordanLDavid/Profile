@@ -40,7 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Limitations-and-Future-Updates">Future Updates</a></li>
+    <li><a href="#limitations-and-future-updates">Future Updates</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -92,6 +92,7 @@ To get a local copy up and running follow these simple example steps.
 ## Limitations and Future Updates
 * Add Taskbar
 * Add Footer
+* Add Projects
 * Improve scrolling
 * Improve UI Layout and Design
 
